@@ -1,3 +1,5 @@
+# ElectroNotes-Web
+This repo consists of frontend React code.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
